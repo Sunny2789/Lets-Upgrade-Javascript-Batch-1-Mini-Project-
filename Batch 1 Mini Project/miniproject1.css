@@ -1,0 +1,36 @@
+body {
+    background-color: wheat;
+    
+}
+
+label {
+    font-size: 30px;
+}
+
+input {
+    font-size: 30px;
+}
+
+h1 {
+    font-weight: lighter;
+}
+h2 {
+    font-weight: lighter;
+}
+
+#timer_div {
+    border-style: solid;
+    border-color: green;
+    border-width: 2px;
+    background-color: white;
+    font-size: 50px;
+    color: lightskyblue;
+    width: 250px;
+    padding: 10px;
+    text-align: center;
+   
+}
+
+.timeup {
+    font-family: Arial, Helvetica, sans-serif;
+}
